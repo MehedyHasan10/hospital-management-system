@@ -1,0 +1,60 @@
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\bin\Debug\My Project.exe.config
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\bin\Debug\My Project.exe
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\bin\Debug\My Project.pdb
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My Project.csproj.AssemblyReference.cache
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My Project.exe
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My Project.pdb
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My_Project.FormInvoice.resources
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My_Project.FormUserCategory.resources
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My_Project.FormAdmision.resources
+C:\Users\M.a. Islam Sony\source\repos\My Project\My Project\obj\Debug\My_Project.FormLogin.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\bin\Debug\My Project.exe.config
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\bin\Debug\My Project.exe
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\bin\Debug\My Project.pdb
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My Project.csproj.AssemblyReference.cache
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormLogin.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormInvoice.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My Project.exe
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My Project.pdb
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormEmployee_Management.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormMaterial_Management.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormAdmission.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormDashboardManager.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormDashboardReceptionist.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormDashboardAdmin.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormShowAdmissionInfo.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormAddExam.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormShowInvoice.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormDashBoardPharmacist.resources
+E:\AIUB ALL FILES\6th Semester\My Project\My Project\obj\Debug\My_Project.FormMedicineInfo.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\bin\Debug\My Project.exe.config
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\bin\Debug\My Project.exe
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\bin\Debug\My Project.pdb
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My Project.csproj.AssemblyReference.cache
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormAddExam.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormDashboardManager.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormDashBoardPharmacist.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormDashboardReceptionist.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormLogin.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormEmployee_Management.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormInvoice.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormMaterial_Management.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormDashboardAdmin.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormAdmission.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormMedicineInfo.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormShowAdmissionInfo.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.FormShowInvoice.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My Project.exe
+D:\Hospital Management System (2)\Hospital Management System\My Project\My Project\obj\Debug\My Project.pdb
+D:\C#\Hospital Management System\My Project\My Project\obj\Debug\My Project.csproj.AssemblyReference.cache
+D:\C#\Hospital Management System\My Project\My Project\obj\Debug\My Project.exe
+D:\C#\Hospital Management System\My Project\My Project\obj\Debug\My Project.pdb
