@@ -4,36 +4,16 @@
 
 Admin -----------
 
-Hospital Services 
-
-Diagnostic System 
-
-Pharmacy Management 
-
-Material Management  
-
-HR 
-
- 
+Hospital Services ,Diagnostic System ,Pharmacy Management ,Material Management,HR 
 
 Manager ----------
 
-Hospital Services 
+Hospital Services ,Diagnostic System ,Material Management  
 
-Diagnostic System 
+Receptionist -----
 
-Material Management  
+Hospital Services ,Diagnostic System 
 
- 
-
-Receptionist -----------
-
-Hospital Services 
-
-Diagnostic System 
-
- 
-
-Pharmacist ----------------
+Pharmacist -------
 
 Pharmacy Management 
